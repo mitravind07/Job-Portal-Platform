@@ -93,11 +93,11 @@ Visit: `http://localhost:3000`
 
 ## 📄 License
 
-This project currently has no license. Add one if you plan to share or deploy publicly.
+This project currently has no license.
 
 ---
 
 ## 🙌 Acknowledgments
 
 - Inspired by job platforms like LinkedIn and Indeed.
-- Uses [TMDB](https://www.themoviedb.org/) or similar services for media content (if applicable).
+
